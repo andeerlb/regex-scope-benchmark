@@ -31,17 +31,17 @@ The benchmark calculates:
 
 ## Example Output
 
-summarized results:
+summarized results:  
 
-Outside function scope: 120.50 ms
-Inside function scope: 148.30 ms
-RegExp object inside function: 144.70 ms
+Outside function scope: 120.50 ms  
+Inside function scope: 148.30 ms  
+RegExp object inside function: 144.70 ms  
 
-Difference (Outside vs Inside): 27.80 ms
-Difference (Outside vs RegExp): 24.20 ms
+Difference (Outside vs Inside): 27.80 ms  
+Difference (Outside vs RegExp): 24.20 ms  
 
-Percentage gain over Inside: 18.74%
-Percentage gain over RegExp: 16.72%
+Percentage gain over Inside: 18.74%  
+Percentage gain over RegExp: 16.72%  
 
 ---
 
